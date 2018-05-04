@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ColorfulWoodCoreData"
-  s.version      = "1.0.0"
+  s.version      = "1.0.2"
   s.summary      = "iOS CoreData"
 
   s.homepage     = "https://github.com/gs01md"
