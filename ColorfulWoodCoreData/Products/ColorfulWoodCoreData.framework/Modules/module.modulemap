@@ -1,0 +1,6 @@
+framework module ColorfulWoodCoreData {
+  umbrella header "ColorfulWoodCoreData.h"
+
+  export *
+  module * { export * }
+}
